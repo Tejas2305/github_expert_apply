@@ -5,6 +5,6 @@ void main()
     scanf("%d",&a);
     printf("Enter second number:");
     scanf("%d",&b);
-    c=a+b;
-    printf("%d+%d=%d",a,b,c);
+    c=a/b;
+    printf("%d/%d=%d",a,b,c);
 }

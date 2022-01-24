@@ -1,0 +1,1 @@
+pyinstaller -F -i "aivision.ico" version_(0.0.1)_.py
